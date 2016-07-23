@@ -6,3 +6,9 @@ Actually, I only remember the dynamic binding after taking the C++ course. What 
 
 ****feelings about Java and C++****
 The Java has given a very convenient framework for the programmer. The encapsulated class is similar to the case in C++. The memory allocation is quite different from C++. This just reminds me of the difficulty in that C++ project. The most disturbing part is the interface part and the memory allocation part. Acctually, this part inherits from the C. I realized why I feel difficult when I learn C++. I do not have the experience in coding with C. Learning C++ feels like learning two philosophy at the same time. Process oriented and object oriented are the characteristics of two men, the C++ try to combine their advantages together. I know, C++ wants to be a superman. Can I be a superman?
+
+***keyword -- final***
+member variable:  final member varibale is similar to const in C++, the value can not be changed.
+method: final method can not be overwritten.
+class: final class can not be inherited.
+
