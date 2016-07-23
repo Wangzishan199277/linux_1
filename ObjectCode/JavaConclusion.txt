@@ -14,3 +14,9 @@ class: final class can not be inherited.
 
 ***generic type***
 The generic type is similar to the template in C++.
+
+****Conclusion for Java container****
+One picture: Remember that picture, Collection is the superinterface with two subinterface: Set and List. Set has the subclass: hashset. List has the subclass: LinkedList and ArrayList. The interface Map is an independent part. Map has the subclass hashmap.
+One class: Collection.
+Three knowledge points: enhanced for, Generic, Auto-boxing and unboxing.
+Six interface: Collextion, Set, LinkedList, ArrayList, Iterator, Comparable.
