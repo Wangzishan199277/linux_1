@@ -12,3 +12,5 @@ member variable:  final member varibale is similar to const in C++, the value ca
 method: final method can not be overwritten.
 class: final class can not be inherited.
 
+***generic type***
+The generic type is similar to the template in C++.
