@@ -1,0 +1,4 @@
+"identation in vim"
+Here, I must make it clear that I do not use the vim very well. I learn a very useful command for indentation. 
+The "gg=G" command which is pretty useful. This command will automatically make each line in different block  
+indent. The space indented is set as 8. I can use ":set shiftwidth=4" command to change the setting of identation. 
